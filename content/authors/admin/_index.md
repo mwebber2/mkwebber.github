@@ -29,7 +29,7 @@ bio: My research interests include climate change adaptation, urban stormwater m
 
 # Interests to show in About widget
 interests:
-  - climate change
+  - adaptation to climate change
   - urban stormwater modeling
   - green stormwater infrastructure
   - nature-based solutions
@@ -57,13 +57,23 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 95
         icon: chart-line
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Reading
+        description: ''
+        percent: 95
+        icon: book-open
+        icon_pack: fas
+      - name: Swimming
+        description: ''
+        percent: 80
+        icon: person-swimming
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 60
@@ -77,7 +87,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:mwebber2@andrew.cmu.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=9YXTFi0AAAAJ&hl=en&oi=ao
@@ -87,12 +97,15 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/marissa-webber
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0002-8035-732X
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: 
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
