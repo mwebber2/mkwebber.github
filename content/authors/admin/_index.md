@@ -96,7 +96,7 @@ social:
     link: https://github.com/mwebber2
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/marissa-webber
+    link: https://www.linkedin.com/marissa-webber/
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0002-8035-732X
@@ -108,8 +108,10 @@ social:
   #  link: 
 
 # Highlight the author in author lists? (true/false)
+#{style="text-align: justify;"}
 highlight_name: true
 ---
 
-Marissa Webber is a Doctoral candidate at Carnegie Mellon University in the department of Civil and Environmental Engineering. Her dissertation work focuses on climate adaptation for stormwater infrastructure in the urban environment, specifically how stakeholders are using climate data for planning and adaptation, and the use of green infrastructure and nature-based solutions for effective adaptation in the face of deep uncertainty associated with climate change.
-{style="text-align: justify;"}
+Hi, I'm Marissa!
+I'm a Doctoral candidate at Carnegie Mellon University in the department of Civil and Environmental Engineering. My dissertation work focuses on climate adaptation for stormwater infrastructure in the urban environment, specifically how stakeholders are using climate data for planning and adaptation, and the use of green infrastructure and nature-based solutions for effective adaptation in the face of deep uncertainty associated with climate change.
+
