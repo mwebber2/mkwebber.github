@@ -50,11 +50,11 @@ education:
 skills:
   - name: Technical
     items:
-      - name: PCSWMM
+      - name: Stormwater Modeling
         description: ''
         percent: 80
         icon: house-flood-water
-        icon_pack: fab
+        icon_pack: fas
       - name: Python
         description: ''
         percent: 80
@@ -64,12 +64,12 @@ skills:
         description: ''
         percent: 70
         icon: r
-        icon_pack: fab
+        icon_pack: fas
       - name: ArcGIS/QGIS
         description: ''
-        percent: 80
+        percent: 75
         icon: earth-americas
-        icon_pack: fab
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 95
@@ -89,11 +89,11 @@ skills:
         percent: 80
         icon: person-swimming
         icon_pack: fas
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
+      #- name: Hiking
+      #  description: ''
+      #  percent: 60
+      #  icon: person-hiking
+      #  icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
