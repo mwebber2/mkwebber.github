@@ -50,10 +50,25 @@ education:
 skills:
   - name: Technical
     items:
+      - name: PCSWMM
+        description: ''
+        percent: 80
+        icon: house-flood-water
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
         icon: python
+        icon_pack: fab
+      - name: RStudio
+        description: ''
+        percent: 70
+        icon: r
+        icon_pack: fab
+      - name: ArcGIS/QGIS
+        description: ''
+        percent: 80
+        icon: earth-americas
         icon_pack: fab
       - name: Data Science
         description: ''
@@ -103,9 +118,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: 
+  - icon: cv
+    icon_pack: ai
+    link: admin/CV.docx
 
 # Highlight the author in author lists? (true/false)
 #{style="text-align: justify;"}
