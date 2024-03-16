@@ -54,7 +54,7 @@ skills:
         description: ''
         percent: 80
         icon: house-flood-water
-        icon_pack: fas
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
@@ -64,17 +64,17 @@ skills:
         description: ''
         percent: 70
         icon: r
-        icon_pack: fas
+        icon_pack: fab
       - name: ArcGIS/QGIS
         description: ''
         percent: 75
         icon: earth-americas
-        icon_pack: fas
+        icon_pack: fab
       - name: Data Science
         description: ''
         percent: 95
         icon: chart-line
-        icon_pack: fas
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -83,17 +83,12 @@ skills:
         description: ''
         percent: 95
         icon: book-open
-        icon_pack: fas
+        icon_pack: fab
       - name: Swimming
         description: ''
         percent: 80
         icon: person-swimming
-        icon_pack: fas
-      #- name: Hiking
-      #  description: ''
-      #  percent: 60
-      #  icon: person-hiking
-      #  icon_pack: fas
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
